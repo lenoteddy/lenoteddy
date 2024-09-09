@@ -2,10 +2,10 @@
 
 My experience as software developer (web3 developer currently)
 
-As a passionate Blockchain Developer with 3 years of specialized experience, complemented by 8 years of expertise in frontend and backend development, I bring a comprehensive skill set to the table. My proficiency spans from crafting intuitive and responsive front-end interfaces to developing robust decentralized applications (dApps) using the latest blockchain technologies.
+As a Software Developer with 3 years of experience in blockchain development and 8 years of expertise in both frontend and backend development. At the core of my blockchain expertise is **Solidity**, which I leverage to build secure and efficient smart contracts. My technical proficiency also includes **SQL, PHP, HTML, CSS, JavaScript, and Typescript**, as well as deep experience with **ReactJS, React Native, NodeJS, and NextJS** for creating intuitive, responsive applications. Furthermore, I utilize **Ethers.js, Web3.js, and Hardhat** to develop cutting-edge decentralized applications (dApps) that are scalable and innovative.
 
 Core Competencies:
-- Blockchain Development: Skilled in using Hardhat, Ethers.js, Solidity, and React for building and deploying smart contracts and dApps.
+- Blockchain Development: Skilled in using **Hardhat, Ethers.js, Solidity, and React** for building and deploying smart contracts and dApps.
 - Frontend Development: Expertise in transforming design concepts into dynamic, user-friendly interfaces.
 - Backend Development: Experience in creating and managing server-side logic and databases to support complex applications.
 
@@ -14,6 +14,7 @@ I'm enthusiastic about tackling new challenges and contributing to cutting-edge 
 **🧑🏻‍💻 Work Experience**
 
 - Project Lead Developer • LenoTeddy (January 2018 - Present)
+  <br />**Tech: SQL, PHP, HTML, CSS, JavaScript, Typescript, Solidity, ReactJS, React Native, NodeJS, NextJS, Ethers.js, Web3.js, Hardhat**
   - Lead and manage 10+ client projects, ensuring successful delivery and client satisfaction
   - Conduct comprehensive meetings with clients to gather and define project requirements
   - Prepare and present detailed quotations for system development projects, ensuring accurate scope and budget
@@ -23,6 +24,7 @@ I'm enthusiastic about tackling new challenges and contributing to cutting-edge 
   - Continuously explore innovative solutions to improve efficiency and effectiveness in project delivery
 
 - Chief Technology Officer • Kommunitas.net (January 2022 - June 2024)
+  <br />**Tech: SQL, PHP, HTML, CSS, JavaScript, Typescript, Solidity, ReactJS, NodeJS, NextJS, Ethers.js, Web3.js, Hardhat**
   - Developed and maintained over 6+ products
   - Automated CI/CD processes for 6+ products
   - Engineered APIs facilitating seamless data sharing across multiple applications
@@ -36,6 +38,7 @@ I'm enthusiastic about tackling new challenges and contributing to cutting-edge 
   - Aided the Operations Team in accessing blockchain-related data for various needs
 
 - Full Stack Developer • CPR Vision Management (April 2021 - December 2021)
+  <br />**Tech: SQL, PHP, HTML, CSS, JavaScript, Typescript, ReactJS, NodeJS, NextJS**
   - Developed and maintained over 5+ products
   - Coordinated and participated in planning, design, and development of websites and web applications
   - Converted designs to HTML, CSS, JS, and PHP
@@ -43,6 +46,7 @@ I'm enthusiastic about tackling new challenges and contributing to cutting-edge 
   - Conducted sprint planning for development
 
 - Software Developer • Jambispirit (June 2016 - March 2021)
+  <br />**Tech: SQL, PHP, HTML, CSS, JavaScript, jQuery, Bootstrap, Kotlin**
   - Developed and maintained over 50+ projects
   - Thoroughly analyze system requirements for every project undertaken
   - Design custom technology solutions tailored to the specific needs of each project
@@ -51,17 +55,17 @@ I'm enthusiastic about tackling new challenges and contributing to cutting-edge 
 
 **🏆 Certifications**
 
-- HackerRank - Problem Solving (Intermediate)
+- HackerRank - **Problem Solving (Intermediate)**
   <br>August 2024 | <a href="https://www.hackerrank.com/certificates/c6617a47c1f2" target="_blank">Credential</a>
-- HackerRank - JavaScript (Basic)
+- HackerRank - **JavaScript (Basic)**
   <br>October 2023 | <a href="https://www.hackerrank.com/certificates/2bab39fe00ea" target="_blank">Credential</a>
-- HackerRank - SQL (Advanced)
+- HackerRank - **SQL (Advanced)**
   <br>September 2023 | <a href="https://www.hackerrank.com/certificates/c35d9e53f251" target="_blank">Credential</a>
-- HackerRank - CSS (Basic)
+- HackerRank - **CSS (Basic)**
   <br>June 2021 | <a href="https://www.hackerrank.com/certificates/4c4171a7a43d" target="_blank">Credential</a>
-- HackerRank - SQL (Basic)
+- HackerRank - **SQL (Basic)**
   <br>June 2021 | <a href="https://www.hackerrank.com/certificates/b55553c50037" target="_blank">Credential</a>
-- HackerRank - SQL (Intermediate)
+- HackerRank - **SQL (Intermediate)**
   <br>June 2021 | <a href="https://www.hackerrank.com/certificates/2f6b30d08ab0" target="_blank">Credential</a>
-- HackerRank - Problem Solving (Basic)
+- HackerRank - **Problem Solving (Basic)**
   <br>September 2020 | <a href="https://www.hackerrank.com/certificates/6b45e1e44f3d" target="_blank">Credential</a>
