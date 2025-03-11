@@ -28,6 +28,7 @@ jobs:
               run: |
                   npm ci
                   npm run build
+                  mv .htaccess dist/.htaccess
                   cd dist/
 
             - name: 📂 Sync files
