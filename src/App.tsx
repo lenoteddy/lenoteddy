@@ -1,8 +1,15 @@
+// import Logo from "./assets/logo.png";
+
 function App() {
 	return (
 		<div className="container">
 			<header>
 				<ul className="-mt-2 py-2 flex items-center gap-x-6 overflow-x-scroll">
+					{/* <li>
+						<a href="#">
+							<img src={Logo} alt="logo" className="w-12" />
+						</a>
+					</li> */}
 					<li>
 						<a href="#" className="text-gray-400 font-medium">
 							Home
