@@ -28,6 +28,7 @@ jobs:
               run: |
                   npm ci
                   npm run build
+                  cd dist/
 
             - name: 📂 Sync files
               uses: SamKirkland/FTP-Deploy-Action@v4.3.5
