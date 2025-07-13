@@ -29,6 +29,7 @@ jobs:
                   npm ci
                   npm run build
                   mv .htaccess dist/.htaccess
+                  mv robots.txt dist/robots.txt
 
             - name: 📂 Sync files
               uses: SamKirkland/FTP-Deploy-Action@v4.3.5
