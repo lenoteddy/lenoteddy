@@ -11,12 +11,12 @@ function App() {
 						</a>
 					</li> */}
 					<li>
-						<a href="#" className="text-gray-400 font-medium">
+						<a href="#" className="text-gray-600 font-medium">
 							Home
 						</a>
 					</li>
 					<li>
-						<a href="mailto:lenoteddy@gmail.com" className="text-gray-400 font-medium">
+						<a href="mailto:lenoteddy@gmail.com" className="text-gray-600 font-medium">
 							Contact
 						</a>
 					</li>
