@@ -24,7 +24,7 @@ function App() {
 			</header>
 			<main className="py-6">
 				<h1 className="text-4xl font-semibold">Hi, I'm Teddy Leno!</h1>
-				<p className="mt-1 text-sm">🔗 Blockchain Developer | 💻 Full-Stack Engineer | 🏆 2x Hackathon Winner</p>
+				<p className="mt-1 text-sm">🔗 Blockchain Developer | 📊 Crypto Trader | 🏆 2x Hackathon Winner</p>
 				<div className="mt-6">
 					<h2 className="mb-1 text-2xl font-semibold">About Me</h2>
 					<p className="text-justify">
@@ -38,6 +38,18 @@ function App() {
 					<h2 className="mb-1 text-2xl font-semibold">Recent Activities</h2>
 					<ul className="text-sm">
 						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2012137101538873536" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">January 16, 2026</div>
+								<div className="ml-2 w-full">🚩 BuidlGuidl CTF Challenges - S2</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/1985244931305480369" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">October 10, 2025 - December 31, 2025</div>
+								<div className="ml-2 w-full">📊 Start trading on Lighter.xyz - generating total $12,465.36 in PnL</div>
+							</a>
+						</li>
+						<li className="mb-2">
 							<a href="https://x.com/lenoteddy/status/1946973457859915892" className="flex items-center" target="_blank" rel="noreferrer noopener">
 								<div className="w-48 text-gray-500">July 20, 2025</div>
 								<div className="ml-2 w-full">🖥️ BuidlGuidl ETH Tech Tree Challenges</div>
@@ -46,7 +58,7 @@ function App() {
 						<li className="mb-2">
 							<a href="https://x.com/lenoteddy/status/1939744361669173399" className="flex items-center" target="_blank" rel="noreferrer noopener">
 								<div className="w-48 text-gray-500">July 1, 2025</div>
-								<div className="ml-2 w-full">🚩 BuidlGuidl CTF Challenges</div>
+								<div className="ml-2 w-full">🚩 BuidlGuidl CTF Challenges - S1</div>
 							</a>
 						</li>
 						<li className="mb-2">
