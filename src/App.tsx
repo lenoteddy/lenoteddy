@@ -38,6 +38,18 @@ function App() {
 					<h2 className="mb-1 text-2xl font-semibold">Recent Activities</h2>
 					<ul className="text-sm">
 						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2021963789839761670" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">February 10 - 12, 2026</div>
+								<div className="ml-2 w-full">🇭🇰 Coindesk - Consensus Hong Kong 2026</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2021960904267673979" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">February 10, 2026</div>
+								<div className="ml-2 w-full">🍽️ Paradex Private Dinner 🇭🇰</div>
+							</a>
+						</li>
+						<li className="mb-2">
 							<a href="https://x.com/lenoteddy/status/2012141329627910439" className="flex items-center" target="_blank" rel="noreferrer noopener">
 								<div className="w-48 text-gray-500">January 16, 2026</div>
 								<div className="ml-2 w-full">🚩 BuidlGuidl CTF Challenges - S2</div>
