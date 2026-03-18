@@ -38,6 +38,12 @@ function App() {
 					<h2 className="mb-1 text-2xl font-semibold">Recent Activities</h2>
 					<ul className="text-sm">
 						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2033733857212829870" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">March 5 - 16, 2026</div>
+								<div className="ml-2 w-full">🐥 HackQuest Indonesia: Co-Learning Camp 8 - Ethereum</div>
+							</a>
+						</li>
+						<li className="mb-2">
 							<a href="https://x.com/lenoteddy/status/2021963789839761670" className="flex items-center" target="_blank" rel="noreferrer noopener">
 								<div className="w-48 text-gray-500">February 10 - 12, 2026</div>
 								<div className="ml-2 w-full">🇭🇰 Coindesk - Consensus Hong Kong 2026</div>
@@ -53,6 +59,12 @@ function App() {
 							<a href="https://x.com/lenoteddy/status/2012141329627910439" className="flex items-center" target="_blank" rel="noreferrer noopener">
 								<div className="w-48 text-gray-500">January 16, 2026</div>
 								<div className="ml-2 w-full">🚩 BuidlGuidl CTF Challenges - S2</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2031730807505870969" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">January 8, 2026 - March 11, 2026</div>
+								<div className="ml-2 w-full">📊 Start trading on Paradex - generating total $1,169.58 in PnL</div>
 							</a>
 						</li>
 						<li className="mb-2">
