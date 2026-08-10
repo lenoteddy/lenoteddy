@@ -38,6 +38,60 @@ function App() {
 					<h2 className="mb-1 text-2xl font-semibold">Recent Activities</h2>
 					<ul className="text-sm">
 						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2082867318565335443" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">July 29 - 30, 2026</div>
+								<div className="ml-2 w-full">🇲🇾 Malaysia Blockchain Week 2026</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2045366174503096692" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">July 17 - 31, 2026</div>
+								<div className="ml-2 w-full">📊 Variational trading competition - generating score 580.11K, profit $855.18 & volume $460.16K</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2072214995262451852" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">July 1, 2026</div>
+								<div className="ml-2 w-full">📊 Start ethereum, solana and hyperliquid DCA journey - Day 1</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2064690819882447034" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">June 10, 2026</div>
+								<div className="ml-2 w-full">📊 Start trading on OndoPerps</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2062847889546842283" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">June 5, 2026</div>
+								<div className="ml-2 w-full">📊 Start bitcoin DCA journey - Day 1</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2052666074408325210" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">May 8, 2026</div>
+								<div className="ml-2 w-full">📊 Start trading on RiseX</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2047214557366800689" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">April 22, 2026</div>
+								<div className="ml-2 w-full">📊 Start trading on Dango - stop trading there because project shut down</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2045366174503096692" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">April 4 - 18, 2026</div>
+								<div className="ml-2 w-full">📊 Variational trading competition - generating profit $2.85K & volume $4.53M</div>
+							</a>
+						</li>
+						<li className="mb-2">
+							<a href="https://x.com/lenoteddy/status/2031760116308193691" className="flex items-center" target="_blank" rel="noreferrer noopener">
+								<div className="w-48 text-gray-500">March 11, 2026</div>
+								<div className="ml-2 w-full">📊 Start trading on Variational</div>
+							</a>
+						</li>
+						<li className="mb-2">
 							<a href="https://x.com/lenoteddy/status/2033733857212829870" className="flex items-center" target="_blank" rel="noreferrer noopener">
 								<div className="w-48 text-gray-500">March 5 - 16, 2026</div>
 								<div className="ml-2 w-full">🐥 HackQuest Indonesia: Co-Learning Camp 8 - Ethereum</div>
