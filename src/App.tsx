@@ -159,6 +159,14 @@ function App() {
 						</li>
 					</ul>
 				</div>
+				<div className="mt-6">
+					<h2 className="mb-2 text-2xl font-semibold">Projects Related</h2>
+					<ul className="text-sm">
+						<li className="mb-2">
+							<div className="text-md font-bold">⭐️ PT BLOCKGENESIS TEKNOLOGI INDONESIA</div>
+						</li>
+					</ul>
+				</div>
 			</main>
 			<footer className="mt-8">
 				<div className="flex items-center gap-x-4">
